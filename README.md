@@ -43,7 +43,7 @@ The main objectives of this project are:
 - Sales patterns show **seasonal fluctuations** influenced by customer behavior and festival periods.
 - A few **top-selling SKUs account for the majority of total sales**, indicating high product concentration.
 - **Promotions significantly increase units sold**, confirming that customers respond strongly to offers.
-- **Stock availability plays a crucial role** — products with sufficient stock show high delivery fulfillment, while stock-outs directly reduce sales.
+- **Stock availability plays a crucial role** - products with sufficient stock show high delivery fulfillment, while stock-outs directly reduce sales.
 - **Fast delivery improves repeat buying**, indicating the importance of supply chain efficiency.
 - Specific **regions and channels outperform others**, highlighting areas with higher growth potential.
 - Certain products display **high stock but low sales**, suggesting overstocking or poor product movement.
