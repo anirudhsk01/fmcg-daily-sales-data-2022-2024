@@ -7,11 +7,11 @@ This project involves the analysis of FMCG (Fast Moving Consumer Goods) daily sa
 
 ## Objectives
 The main objectives of this project are:
-- To analyze daily sales trends and identify peak and low demand periods.
-- To determine top-performing products, brands, and categories.
-- To observe the impact of price changes and promotional offers on sales volume.
-- To study how stock levels and delivery lead times influence final delivered quantities.
-- To derive actionable insights that support better business and operational planning.
+1. To analyze daily sales trends and identify peak and low demand periods.
+2. To determine top-performing products, brands, and categories.
+3. To observe the impact of price changes and promotional offers on sales volume.
+4. To study how stock levels and delivery lead times influence final delivered quantities.
+5. To derive actionable insights that support better business and operational planning.
 
 ---
 
@@ -30,23 +30,23 @@ The main objectives of this project are:
 2. Cleaned data by formatting dates, validating numeric fields, and checking for missing values.
 3. Performed Exploratory Data Analysis (EDA) to understand product, region, segment, and channel-level performance.
 4. Analyzed:
-   - Sales trends across time (daily/seasonal patterns)
-   - SKU and brand-wise sales contribution
-   - Effect of promotions on units sold
-   - Stock availability vs delivered quantity relationship
-   - Delivery time influence on repeat demand
+   * Sales trends across time (daily/seasonal patterns)
+   * SKU and brand-wise sales contribution
+   * Effect of promotions on units sold
+   * Stock availability vs delivered quantity relationship
+   * Delivery time influence on repeat demand
 5. Visualized findings using charts and graphs for clear interpretation.
 
 ---
 
 ## Results & Insights
-- Sales patterns show **seasonal fluctuations** influenced by customer behavior and festival periods.
-- A few **top-selling SKUs account for the majority of total sales**, indicating high product concentration.
-- **Promotions significantly increase units sold**, confirming that customers respond strongly to offers.
-- **Stock availability plays a crucial role** - products with sufficient stock show high delivery fulfillment, while stock-outs directly reduce sales.
-- **Fast delivery improves repeat buying**, indicating the importance of supply chain efficiency.
-- Specific **regions and channels outperform others**, highlighting areas with higher growth potential.
-- Certain products display **high stock but low sales**, suggesting overstocking or poor product movement.
+1. Sales patterns show **seasonal fluctuations** influenced by customer behavior and festival periods.
+2. A few **top-selling SKUs account for the majority of total sales**, indicating high product concentration.
+3. **Promotions significantly increase units sold**, confirming that customers respond strongly to offers.
+4. **Stock availability plays a crucial role** - products with sufficient stock show high delivery fulfillment, while stock-outs directly reduce sales.
+5. **Fast delivery improves repeat buying**, indicating the importance of supply chain efficiency.
+6. Specific **regions and channels outperform others**, highlighting areas with higher growth potential.
+7. Certain products display **high stock but low sales**, suggesting overstocking or poor product movement.
 
 ---
 
